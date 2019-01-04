@@ -23,7 +23,7 @@ I have enclosed an IPython notebook in this repository which depicts my team's a
     <li><a href="https://scikit-learn.org/stable/">Scikit-Learn</a></li>
   </ul>
 </ul>
-f you have any queries related to python refer to the <a href ="https://docs.python.org/3/">Official Python Documentation</a> or visit any other sites such as <a href="https://www.reddit.com/r/Python/">Reddit</a> , <a href= "https://stackoverflow.com/questions/tagged/python">Stack Overflow</a> and <a href="https://www.quora.com/topic/Python-programming-language-1">Quora</a>.You can also visit the same sites for data science related queries.<br><br>
+If you have any queries related to python refer to the <a href ="https://docs.python.org/3/">Official Python Documentation</a> or visit any other sites such as <a href="https://www.reddit.com/r/Python/">Reddit</a> , <a href= "https://stackoverflow.com/questions/tagged/python">Stack Overflow</a> and <a href="https://www.quora.com/topic/Python-programming-language-1">Quora</a>.You can also visit the same sites for data science related queries.<br><br>
 If you face any problems with this tutorial please raise an issue by clicking <a href="https://github.com/Samden98/Kaggle-CostaRica-Poverty/issues/new">here</a> and if you like it please give it a star by scrolling up and clicking on the Star button.
 <br><br>
 If you need any further approaches to this problem you can find them at the Kaggle <a href ="https://www.kaggle.com/c/costa-rican-household-poverty-prediction/kernels">Kernels</a> section. Kaggle is an excellent community that is willing to help everyone out and one of the best places to learn.
