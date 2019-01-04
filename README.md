@@ -1,2 +1,2 @@
-# Kaggle-CostaRica-Poverty
-This notebook showcases my approach to the Costa Rican Household Poverty Level Prediction competition. Showcases data munging, visualisation and analysis.
+#  Costa Rican Household Poverty Level Prediction 
+I have enclosed an IPython notebook in this repository which depicts my approach to the Costa Rican Household Poverty Level Prediction competition. Showcases data munging, visualisation and analysis. With the help of this approach I was able to finish in the top 7% of the competition. My aim for this repository is to provide a guide for those who are new and are interested in this field. I have taken help from the nunber 1 kernel in the competiton. You can find this kernel <a href ="https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough">here.</a>
