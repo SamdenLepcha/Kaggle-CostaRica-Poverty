@@ -1,4 +1,6 @@
 #  Costa Rican Household Poverty Level Prediction 
+
+<img src ="https://raw.githubusercontent.com/SamdenLepcha/Kaggle-CostaRica-Poverty/master/Snapshot.JPG" height=300 width=1500>
 I have enclosed an IPython notebook in this repository which depicts my team's approach to the Costa Rican Household Poverty Level Prediction competition. Showcases data munging, visualisation and analysis. With the help of this approach we were able to finish in the top 7% of the competition. My aim for this repository is to provide a guide for those who are new and are interested in this field. I have taken help from the nunber 1 kernel in the competiton. You can find this kernel <a href ="https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough">here.</a>
 <h3>To run the IPython Notebook locally</h3>
 <ol>
